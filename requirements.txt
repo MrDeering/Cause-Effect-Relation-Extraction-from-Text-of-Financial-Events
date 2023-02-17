@@ -1,0 +1,7 @@
+torch==1.7.1+cu110
+tqdm==4.50.2
+numpy==1.19.2
+transformers==4.3.3
+zhon==1.1.5
+pytorch_crf==0.7.2
+jieba==0.42.1
